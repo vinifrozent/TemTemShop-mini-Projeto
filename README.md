@@ -10,7 +10,7 @@ Após isso apenas digite na URL "localhost/temtemshop".
 No diretório SQL se encontra o arquivo de banco de dados "temtemshop.sql".
 É necessário importar este banco de dados no SGBD MySQL.
 
-O nome da database criada deverá ser mydrug.
+O nome da database criada deverá ser temtemshop.
 Para acessar o banco, deve inserir o seguinte login:
 -Login/user: root
 
