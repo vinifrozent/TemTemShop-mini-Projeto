@@ -1,0 +1,29 @@
+.produto
+{
+	float:left;
+	width:270px;
+	min-height:380px;
+	height:auto;
+	border:1px solid #eaeaea;
+	border-radius:5px;
+	margin-left:20px;
+	margin-top:20px;
+	text-align:center;
+	font-family: verdana;
+	color: #666666;
+}
+
+.img_produto
+{
+	width:250px;
+	height:200px;
+	margin-top:10px;
+}
+
+
+.valor
+{
+	color: #0b8d14;
+	font-size: 16pt;
+	font-family: verdana;
+}
